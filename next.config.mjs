@@ -5,9 +5,9 @@ const nextConfig = {
       // Basic redirect
       {
         source: '/:path*',
-        destination: 'https://www.akuocoop.com/:path*',
+        destination:
+          'https://akuocoop.lendosphere.com?akuocoop-devient-lendosphere',
         basePath: false,
-
         permanent: true,
       },
     ];
