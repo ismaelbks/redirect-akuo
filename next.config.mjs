@@ -6,7 +6,7 @@ const nextConfig = {
       {
         source: '/:path*',
         destination:
-          'https://akuocoop.lendosphere.com?akuocoop-devient-lendosphere',
+          'https://akuocoop.lendosphere.com/?akuocoop-devient-lendosphere',
         basePath: false,
         permanent: true,
       },
